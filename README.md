@@ -4,8 +4,8 @@
 
 ### 1. Clone the Repository
 ```bash
-    git clone https://github.com/F3ll4s/System-Monitor.git
-    cd System-Monitor
+    git clone https://github.com/F3ll4s/System-Monitor
+    cd rust_final   
 ``` 
 ### 2. Run
 ```bash
